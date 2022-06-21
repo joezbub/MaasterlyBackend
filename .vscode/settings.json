@@ -1,0 +1,8 @@
+{
+    "go.delveConfig": {
+    
+    },
+    "go.languageServerExperimentalFeatures": {
+        "diagnostics": false
+    }
+}
